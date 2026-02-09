@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "Through Patches of Violet",
+  "base_artist": "Mili",
+  "createdAt": "2026-02-09T13:32:33.287326Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Through Patches of Violet",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/01_Through_Patches_of_Violet_Mili.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Through Patches of Violet",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/02_Through_Patches_of_Violet_Mili.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Through Patches of Violet",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/03_Through_Patches_of_Violet_Mili.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Through Patches of Violet",
+      "artist": "Various",
+      "has_synced": true,
+      "path": "select/04_Through_Patches_of_Violet_Various.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Through Patches of Violet (Cathy)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/05_Through_Patches_of_Violet_(Cathy)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Through Patches of Violet",
+      "artist": "Studio EIM",
+      "has_synced": true,
+      "path": "select/06_Through_Patches_of_Violet_Studio_EIM.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Mili - Through Patches of Violet [Limbus Company]",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/07_Mili_-_Through_Patches_of_Violet_[Limbus_Company]_Mili.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Through Patches of Violet",
+      "artist": "Myun",
+      "has_synced": true,
+      "path": "select/08_Through_Patches_of_Violet_Myun.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Through Patches of Violet (Female Version)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/09_Through_Patches_of_Violet_(Female_Version)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Mili - Through Patches of Violet [Limbus Company]",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/10_Mili_-_Through_Patches_of_Violet_[Limbus_Company]_Mili.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Through Patches of Violet (Paused)",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/11_Through_Patches_of_Violet_(Paused)_Mili.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Through Patches of Violet (Female Version)",
+      "artist": "Mili, Studio EIM",
+      "has_synced": true,
+      "path": "select/12_Through_Patches_of_Violet_(Female_Version)_Mili,_Studio_EIM.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Mili - Through Patches of Violet [Limbus Company]",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/13_Mili_-_Through_Patches_of_Violet_[Limbus_Company]_Mili.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Hacklord Shedletsky LMS - Through Patches of Violet (From 'Limbus Company')",
+      "artist": "Song, D.Meletis",
+      "has_synced": true,
+      "path": "select/14_Hacklord_Shedletsky_LMS_-_Through_Patches_of_Violet_(From_'Limbus_Company')_Song,_D.Meletis.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Mili - Through Patches of Violet [Limbus Company]",
+      "artist": "Mili",
+      "has_synced": true,
+      "path": "select/15_Mili_-_Through_Patches_of_Violet_[Limbus_Company]_Mili.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Hacklord Shedletsky LMS - Through Patches of Violet (From 'Limbus Company')",
+      "artist": "D.Meletis",
+      "has_synced": true,
+      "path": "select/16_Hacklord_Shedletsky_LMS_-_Through_Patches_of_Violet_(From_'Limbus_Company')_D.Meletis.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Through Patches of Violet",
+      "artist": "Mili",
+      "has_synced": false,
+      "path": "select/pl_01_Through_Patches_of_Violet_Mili.txt"
+    }
+  ]
+}
