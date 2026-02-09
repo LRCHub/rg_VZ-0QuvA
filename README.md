@@ -1,0 +1,70 @@
+# Mili – Through Patches of Violet
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:01.76] How much I wished for another
+[00:07.74] Better, happier, brighter future
+[00:13.96] Here I am at the gate I stand
+[00:16.71] Dear old times
+[00:18.46] I've made up my mind
+[00:28.46] 
+[00:21.38] How much you must have suffered through
+[00:27.36] My anger (you wonder)
+[00:29.15] Vulgar (forward)
+[00:30.63] Awkward (sincere)
+[00:32.24] Composure (manners)
+[00:33.90] Here we are at the fated land
+[00:36.48] Will you watch me end? (I shall make it end)
+[00:58.48] 
+[00:42.64] Oh-oh
+[00:44.19] Round and round we go
+[00:47.23] Holding on to pain
+[00:49.78] Driven by our egos
+[00:52.91] Feelings (feelings) untold
+[00:56.36] Spinning our own versions of the past
+[01:02.05] That you could never know
+[01:04.96] 'Cause I know
+[01:11.46] 
+[01:07.22] I must be the reason why
+[01:10.85] You have given up your smiles
+[01:13.93] And the hope inside your eyes have been stolen
+[01:18.93] I must be the reason why
+[01:23.04] You must tell me all these lies
+[01:25.90] Wishing you a better life without me by your side
+[01:32.70] The message has already been said through patches of violet
+[02:02.20] 
+[01:45.31] How much we must have diverged
+[01:50.92] Hello (goodnight)
+[01:52.83] Goodbye (hello)
+[01:54.09] Goodnight (were ain't here)
+[01:55.88] Goodbye (waiting?)
+[01:57.27] Here we are, it's our final chance
+[01:59.95] With your hand, do what must be done
+[02:17.95] 
+[02:05.90] Delete
+[02:08.73] Delete
+[02:12.04] Delete
+[02:14.86] Delete
+[02:17.29] Delete, delete, delete, delete
+[02:20.38] Delete, delete, delete, delete
+[02:23.20] Delete, delete, delete, delete
+[02:26.09] Delete, delete, delete, delete
+[02:41.09] 
+[02:42.36] Oh-oh
+[02:44.14] Round and round we go
+[02:46.99] Holding on to pain
+[02:49.99] Driven by our egos
+[02:53.13] Feelings (feelings) untold
+[02:55.90] Spinning our own versions of the past
+[03:01.86] That you could never know
+[03:04.69] How would I know?
+[03:13.19] 
+[03:06.97] I could be the reason why
+[03:10.59] You were able to be kind
+[03:13.74] And the hearts we held so tight won't stay broken
+[03:19.20] Love must be the reason why
+[03:23.11] I still believe in this lie
+[03:25.99] That you'll live a better life without me by your side
+[03:32.71] The message has already been said through patches of violet
+```
